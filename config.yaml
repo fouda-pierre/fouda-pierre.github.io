@@ -1,5 +1,5 @@
-baseURL: ""
-title: ExampleSite
+baseURL: "https://fouda-pierre.org"
+title: Pr. Fouda Pierre Joseph
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Pr. Fouda Pierre's Blog
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -52,9 +52,9 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: ""
     icon: 
-    iconHeight: 35
+    iconHeight: 0
 
   # profile-mode
   profileMode:
@@ -73,8 +73,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "L'Urologue"
+    Content: "Directeur général de l'Hôpital Central de Yaoundé,depuis  
+Septembre 2012. Avant sa nomination a ce poste, Prof. Fouda etait directeur du Centre de Recherche Chantal 
+Biya (Chantal Biya International Reference Centre for Research on HIV and AIDS Prevention and Management). Il 
+a ete chef de departement d'Andrologie de l'hopital central depuis 1997. Prof. Fouda a recu son diplome de medecin du CUSS (Aujourd'hui Faculte de Medicine et de Sciences Biomedicales) de Yaounde. Apres, le CUSS, Prof 
+Fouda poursuit sa specialisation a l'Universite de Toulouse ou il devient specialiste en Urologie."  
 
   socialIcons:
     - name: twitter
