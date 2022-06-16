@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.fouda-pierre.org/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2020-01-21T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://www.fouda-pierre.org/</loc>
+    <loc>/tags/first/</loc>
+    <lastmod>2020-01-21T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://www.fouda-pierre.org/tags/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2020-01-21T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>/posts/realisation-de-la-nouvelle-equipe-de-direction-2-hcy/</loc>
+    <lastmod>2020-01-21T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-21T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>/posts/tout-savoir-sur-la-certification-internationale-de-la-banque-de-sang-de-lh%C3%B4pital-central-de-yaound%C3%A9-la-premi%C3%A8re-au-cameroun-en-afrique-centrale-et-de-louest/</loc>
+    <lastmod>2020-01-21T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>
