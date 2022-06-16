@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Pr. Fouda Pierre's Blog
+  title: Pr. Fouda Pierre Joseph
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -73,20 +73,21 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "L'Urologue"
-    Content: "Directeur général de l'Hôpital Central de Yaoundé,depuis  
-Septembre 2012. Avant sa nomination a ce poste, Prof. Fouda etait directeur du Centre de Recherche Chantal 
-Biya (Chantal Biya International Reference Centre for Research on HIV and AIDS Prevention and Management). Il 
-a ete chef de departement d'Andrologie de l'hopital central depuis 1997. Prof. Fouda a recu son diplome de medecin du CUSS (Aujourd'hui Faculte de Medicine et de Sciences Biomedicales) de Yaounde. Apres, le CUSS, Prof 
-Fouda poursuit sa specialisation a l'Universite de Toulouse ou il devient specialiste en Urologie."  
+    Title: "Urologue"
+    Content: "Directeur Général de l'Hôpital Central de Yaoundé depuis  
+Septembre 2012. Avant ce poste, Prof. Fouda etait Directeur du Centre International de Reference Chantal Biya  
+pour la Recherche sur le HIV et la prevention du SIDA. 
+Auparavent, il fut Chef de Departement d'Andrologie de l'Hôpital Central de Yaoundé. Prof. Fouda a recu son 
+diplome de medecin du CUSS (Aujourd'hui Faculte de Medicine et de Sciences Biomedicales de l'Universite 
+de Yaounde 1). Apresle CUSS, il poursuit sa specialisation a l'Universite de Toulouse ou il devient 
+chirurgien et specialiste en Urologie. Depuis Aout 2020, Prof. Fouda est Chevalier de l'Ordre de la valeur, une 
+distinction exceptionnelle du President de la Republique du Cameroun."  
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/ProfFoudaPierre"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/fouda-pierre/"
 
   analytics:
     google:
