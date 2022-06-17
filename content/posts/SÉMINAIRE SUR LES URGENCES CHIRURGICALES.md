@@ -1,5 +1,5 @@
 ---
-title: "Yaounde Central Hospital Gets New Director "
+title: "SÉMINAIRE SUR LES URGENCES CHIRURGICALES "
 date: 2020-01-21T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -35,8 +35,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Dr Pierre Joseph Fouda took over command on Monday October 1 in Yaounde.
+En tant qu'hôpital de référence tant dans la prise en charge et le suivi des patients que dans le domaine de la formation, l'Hôpital Central de Yaoundé a été choisi pour abriter la première cession du séminaire sur les urgences chirurgicales organisée par Israël qu'assistait l'Allemagne et la France à travers leurs ambassades au Cameroun.
 
-Dr Pierre Joseph Fouda has been called to specifically give attention to ameliorating good governance and the management of the Yaounde Central Hospital. The call was made yesterday, October 2 by the Minister of Public Health, André Mama Fouda as he commissioned him as the new director of the Yaounde Central Hospital following his appointment on September 18, 2012 by Prime Ministerial decree. Dr Fouda replaces Professor Lucienne Bella Assumpta who headed the hospital for over three years.
+Tout a commencé le mardi 16 Juillet 2019 dans la salle de conférence du Site ANRS par la cérémonie d'ouverture présidée conjointement par le vice-ambassadeur de la République d’Israël et le Directeur de l'HCY, Pr. Pierre Joseph Fouda.
 
-[Read full article](http://ct2015.cameroon-tribune.cm/index.php?option=com_content&view=article&id=70589:yaounde-central-hospital-gets-new-director&catid=4:societe&Itemid=3)
+[Read full article](https://hopitalcentral.cm/index.php?option=com_content&view=category&layout=blog&id=3)

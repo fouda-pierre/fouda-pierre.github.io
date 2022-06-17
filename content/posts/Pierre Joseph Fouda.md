@@ -1,5 +1,5 @@
 ---
-title: "Yaounde Central Hospital Gets New Director "
+title: "Pierre Joseph Fouda"
 date: 2020-01-21T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -35,8 +35,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Dr Pierre Joseph Fouda took over command on Monday October 1 in Yaounde.
+Si le Coronavirus occupe l’actualité ces derniers jours, les Camerounais souffrent aussi de plusieurs autres maladies, et ne devraient pas fuir les hôpitaux où sont traités les malades atteints de cette pandémie. C’est en effet le message que voudrait véhiculer le directeur général de l’hôpital central de Yaoundé. En effet, ce n’est plus la grande affluence à l’hôpital central de Yaoundé. Le rythme de travail du personnel est nettement en baisse. Les malades de cette formation hospitalière ont déserté les lieux. Pour cause, ils ont peur d’être contaminés par les patients infectés par le Coronavirus, qui sont pris en charge dans le même hôpital. Dans un morceau choisis de cet appel, «Nous leur demandons de venir à l’hôpital.
 
-Dr Pierre Joseph Fouda has been called to specifically give attention to ameliorating good governance and the management of the Yaounde Central Hospital. The call was made yesterday, October 2 by the Minister of Public Health, André Mama Fouda as he commissioned him as the new director of the Yaounde Central Hospital following his appointment on September 18, 2012 by Prime Ministerial decree. Dr Fouda replaces Professor Lucienne Bella Assumpta who headed the hospital for over three years.
-
-[Read full article](http://ct2015.cameroon-tribune.cm/index.php?option=com_content&view=article&id=70589:yaounde-central-hospital-gets-new-director&catid=4:societe&Itemid=3)
+[Read full article](https://lavoixducentre.cm/pierre-joseph-fouda)

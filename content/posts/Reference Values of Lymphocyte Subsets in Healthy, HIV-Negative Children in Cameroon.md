@@ -1,5 +1,5 @@
 ---
-title: "Yaounde Central Hospital Gets New Director "
+title: "Reference Values of Lymphocyte Subsets in Healthy, HIV-Negative Children in Cameroon"
 date: 2020-01-21T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -35,8 +35,9 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Dr Pierre Joseph Fouda took over command on Monday October 1 in Yaounde.
+Reference values of different lymphocyte subsets in a coun- try where the HIV infection or other immune disease are widely spread are necessary for monitoring and predicting the immune status. In human immunodeficiency virus (HIV) in- fection, the flow cytometric determination of CD4􏰂 T lympho- cytes has been one of the main immunological markers used to monitor the disease in HIV-infected children and adults.
 
-Dr Pierre Joseph Fouda has been called to specifically give attention to ameliorating good governance and the management of the Yaounde Central Hospital. The call was made yesterday, October 2 by the Minister of Public Health, André Mama Fouda as he commissioned him as the new director of the Yaounde Central Hospital following his appointment on September 18, 2012 by Prime Ministerial decree. Dr Fouda replaces Professor Lucienne Bella Assumpta who headed the hospital for over three years.
 
-[Read full article](http://ct2015.cameroon-tribune.cm/index.php?option=com_content&view=article&id=70589:yaounde-central-hospital-gets-new-director&catid=4:societe&Itemid=3)
+Two-thirds of all people infected with HIV live in sub-Sa- haran Africa, although this region contains little more than 10% of the world’s population (23). The prevalence of HIV-1 infection in Cameroon is ca. 5.5% in adults (2). In Cameroon, where many HIV-1 subtypes circulate (7, 11, 15, 21), vertical transmission of HIV contributes to a majority of the pediatric AIDS cases.
+
+[Read full article](https://journals.asm.org/doi/pdf/10.1128/CVI.00483-10)

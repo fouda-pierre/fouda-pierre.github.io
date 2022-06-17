@@ -1,5 +1,5 @@
 ---
-title: "Yaounde Central Hospital Gets New Director "
+title: "Use of Trained Non-Medical Staff to Improve Access to HIV Testing Services in Africa: Implementation of the World Health Organization Opt-out Approach in Cameroon"
 date: 2020-01-21T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -35,8 +35,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Dr Pierre Joseph Fouda took over command on Monday October 1 in Yaounde.
+## Background:
 
-Dr Pierre Joseph Fouda has been called to specifically give attention to ameliorating good governance and the management of the Yaounde Central Hospital. The call was made yesterday, October 2 by the Minister of Public Health, André Mama Fouda as he commissioned him as the new director of the Yaounde Central Hospital following his appointment on September 18, 2012 by Prime Ministerial decree. Dr Fouda replaces Professor Lucienne Bella Assumpta who headed the hospital for over three years.
+The Joint United Nations Programme on HIV/AIDS (UNAIDS) in 2019 estimated that 450,000 to 50,000 people in Cameroon were living with HIV, yet only 79% knew their HIV status which is far from the 90% target for 2020. To address this situation, Cameroon adopted the “Opt-out” strategy of the World Health Organization (WHO) and use of trained non-medical cadre (psychosocial agents) to reach out to more people with HIV testing services (HTS). This describes the implementation and outcomes of this strategy by reviewing the activity of a typical day in the Yaoundé Central Hospital (YCH) in Cameroon.
 
-[Read full article](http://ct2015.cameroon-tribune.cm/index.php?option=com_content&view=article&id=70589:yaounde-central-hospital-gets-new-director&catid=4:societe&Itemid=3)
+[Read full article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8039867/)

@@ -1,5 +1,5 @@
 ---
-title: "Yaounde Central Hospital Gets New Director "
+title: "Cérémonie de rétrocession d’un don de matériels et d’équipements médicaux aux hôpitaux du Cameroun"
 date: 2020-01-21T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -35,8 +35,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Dr Pierre Joseph Fouda took over command on Monday October 1 in Yaounde.
+SYNERGIES AFRICAINES a organisé le 10 avril 2014 à son siège, une cérémonie de rétrocession d’un don de matériels et d’équipements médicaux à une vingtaine d’hôpitaux publics et privés du Cameroun.
 
-Dr Pierre Joseph Fouda has been called to specifically give attention to ameliorating good governance and the management of the Yaounde Central Hospital. The call was made yesterday, October 2 by the Minister of Public Health, André Mama Fouda as he commissioned him as the new director of the Yaounde Central Hospital following his appointment on September 18, 2012 by Prime Ministerial decree. Dr Fouda replaces Professor Lucienne Bella Assumpta who headed the hospital for over three years.
+Placée Sous le Très Haut Patronage de Son Excellence Madame Chantal, Première Dame du Cameroun, Présidente Fondatrice de SYNERGIES AFRICAINES, la cérémonie riche en sons et couleurs a été marquée par la présence de nombreuses personnalités dont les membres du gouvernement  du Cameroun, les membres du corps diplomatique, les représentants des organisations internationales.
 
-[Read full article](http://ct2015.cameroon-tribune.cm/index.php?option=com_content&view=article&id=70589:yaounde-central-hospital-gets-new-director&catid=4:societe&Itemid=3)
+[Read full article](https://synergiesafricaines.org/ceremonie-de-retrocession-dun-don-de-materiels-et-dequipements-medicaux-aux-hopitaux-du-cameroun/)
