@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Pr. Fouda Pierre Joseph
-  description: "ExampleSite description"
+  description: "Pr. Fouda Pierre Joseph, Chirurgien Urologue"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: Pr. Fouda Pierre Joseph
+    subtitle: "Chrurgien, Urologue"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
