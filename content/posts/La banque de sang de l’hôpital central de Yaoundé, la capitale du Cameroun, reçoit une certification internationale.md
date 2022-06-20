@@ -1,6 +1,6 @@
 ---
 title: "La banque de sang de l’hôpital central de Yaoundé, la capitale du Cameroun, reçoit une certification internationale"
-date: 2020-01-21T11:30:03+00:00
+date: 2020-05-20T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]

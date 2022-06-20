@@ -1,6 +1,6 @@
 ---
 title: "Use of Trained Non-Medical Staff to Improve Access to HIV Testing Services in Africa: Implementation of the World Health Organization Opt-out Approach in Cameroon"
-date: 2020-01-21T11:30:03+00:00
+date: 2020-05-20T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["Molecular biology", "viral hepatitis", "Chantal Biya international reference center"]

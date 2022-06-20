@@ -1,6 +1,6 @@
 ---
 title: "Tout savoir sur la certification internationale de la banque de sang de l’Hôpital central de Yaoundé, la première au Cameroun, en Afrique centrale et de l’Ouest"
-date: 2020-01-21T11:30:03+00:00
+date: 2020-05-20T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
